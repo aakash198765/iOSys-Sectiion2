@@ -1,0 +1,39 @@
+.image {
+  opacity: 0.5;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  background: #42b078;
+  
+}
+
+
+.card:hover .image {
+  opacity: 0.0;
+  color: white;
+}
+
+.card .text1{
+  color: yellow;
+  text-decoration: none;
+}
+
+p{
+  margin: 0px;
+  color: ;
+  opacity: 1;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-weight: 400;
+  text-transform: initial;
+  padding: 0;
+  display: block;
+
+}
+
+body {
+   background: linear-gradient(to left, #b1a296, #6f2232);
+    min-height: 100vh;
+}

@@ -20,5 +20,9 @@
   "homepage": "https://github.com/aakash198765/iOSys-Sectiion2#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font": "0.0.4"
   }
 }
